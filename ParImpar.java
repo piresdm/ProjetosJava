@@ -1,6 +1,6 @@
-/*
- * Programa que recebe dois números e indica se a soma deles é par ou ímpar.
- */
+
+//Programa que recebe dois números e indica se a soma deles é par ou ímpar.
+
 package logica.java;
 import java.util.Scanner;
 

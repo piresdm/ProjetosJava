@@ -1,6 +1,6 @@
-/*
- * Programa que recebe 3 números inteiros e diz qual a ordem crescente dos números.
- */
+
+//Programa que recebe 3 números inteiros e diz qual a ordem crescente dos números.
+ 
 package logica.java;
 import java.util.Scanner;
 

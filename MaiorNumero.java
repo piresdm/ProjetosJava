@@ -1,6 +1,6 @@
-/*
- * Programa que recebe 3 números inteiros e diz qual o maior valor digitado.
- */
+
+// Programa que recebe 3 números inteiros e diz qual o maior valor digitado.
+ 
 package logica.java;
 import java.util.Scanner;
 
